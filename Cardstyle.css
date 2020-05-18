@@ -1,0 +1,36 @@
+body {  
+  background: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/intermediary/f/a0ea15e2-61a8-489b-b895-77ce5dca15d8/dcyem90-15294657-ecc7-4b84-b793-6eb0380e713b.jpg);
+  /*background-repeat: repeat;*/
+  overflow-x: hidden;
+  margin: 0 0 0 0; }
+
+#bannerimage {
+  width: 100%;
+  background-image: url(https://tinyurl.com/y9v2q3ec);
+  height:78px;
+  background-position: center;
+  resize: horizontal;
+
+}
+
+#bannerimage2 {
+  width: 100%;
+  background-image: url(https://tinyurl.com/ydyjfgfz);
+  height:78px;
+  background-position: center;
+  display: block;
+  bottom : 0;
+  position:fixed;
+}
+
+
+.Frame {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 0 20px 0 20px;
+}
+#images{
+   text-align:center;
+   
+}
