@@ -1,12 +1,12 @@
 body {  
-  background: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/intermediary/f/a0ea15e2-61a8-489b-b895-77ce5dca15d8/dcyem90-15294657-ecc7-4b84-b793-6eb0380e713b.jpg);
+  background: url(https://i.imgur.com/5r3DVAg.jpeg);
   /*background-repeat: repeat;*/
   overflow-x: hidden;
   margin: 0 0 0 0; }
 
 #bannerimage {
   width: 100%;
-  background-image: url(https://tinyurl.com/y9v2q3ec);
+  background-image: url(https://i.imgur.com/EHYBQcm.png);
   height:78px;
   background-position: center;
   resize: horizontal;
@@ -15,7 +15,7 @@ body {
 
 #bannerimage2 {
   width: 100%;
-  background-image: url(https://tinyurl.com/ydyjfgfz);
+  background-image: url(https://i.imgur.com/rm2PKR7.png);
   height:78px;
   background-position: center;
   display: block;
